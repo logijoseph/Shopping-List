@@ -13,7 +13,7 @@ $(".agregar").click(function (e) {
     checkButton.textContent = "Check";
     deleteButton.textContent = "Delete";
 
-    itemName.className = "itemShop, chec";
+    itemName.className = "itemShop";
     checkButton.className = "checar";
     deleteButton.className = "del";
 
